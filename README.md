@@ -1,5 +1,5 @@
 # TITLE
-24GドップラーレーダーのIQ信号を復調する  
+24GドップラーレーダーのIQ信号処理(IQ signal processing)
 
 ## DATE
 Wed Mar 05 2025 08:37:11 GMT+0900 (日本標準時)  
