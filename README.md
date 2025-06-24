@@ -1,24 +1,11 @@
 # TITLE
-ドップラーレーダー  
+ドップラーレーダーのIQ信号を復調する  
 
 ## DATE
 Wed Mar 05 2025 08:37:11 GMT+0900 (日本標準時)  
 
 ## MODE
 gpt-4  
-
-## MODEL
-gpt-4  
-
-## PARAMETER
- - max_tokens: 4096  
- - temperature: 0  
- - top_p: 1  
- - frequency_penalty: 0  
- - presence_penalty: 0.6  
-
-## SYSTEM
-You are a helpful AI chatbot.  
 
 ## MESSAGES
 ### [1] user  
