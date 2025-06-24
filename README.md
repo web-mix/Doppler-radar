@@ -1,6 +1,4 @@
-# Doppler-radar
-
-## TITLE
+# TITLE
 ドップラーレーダー  
 
 ## DATE
