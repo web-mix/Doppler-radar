@@ -1,5 +1,8 @@
-# TITLE
-24GドップラーレーダーのIQ信号処理(IQ signal processing)
+# 24GドップラーレーダーのIQ信号処理(IQ signal processing)
+
+<p align="center">
+  <img src="Figure_2.png" width="1000">
+</p>
 
 ## DATE
 Wed Mar 05 2025 08:37:11 GMT+0900 (日本標準時)  
